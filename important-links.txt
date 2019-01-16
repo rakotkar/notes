@@ -2,3 +2,4 @@ https://odoepner.wordpress.com/2016/09/15/install-portable-jdk-on-windows-withou
 https://refactoring.com/
 https://github.com/hemant2494/Ng-Book-5-PDF/
 https://www.deadcoderising.com/java8-writing-asynchronous-code-with-completablefuture/
+https://www.atlassian.com/git/tutorials/rewriting-history
