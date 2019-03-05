@@ -1,1 +1,12 @@
 
+
+
+
+
+
+
+
+
+{'text': "@clarissefujs Fait l'amour", 'sentiment': 'neutral'}, {'text': '@kyzerrrrrrr Thanks for your support, Kyzer! 🙌', 'sentiment': 'positive'}, {'text': "@PtitDicky @spinvante Saut d'obstacles. Ou ping pong aussi", 'sentiment': 'negative'}]
+
+
