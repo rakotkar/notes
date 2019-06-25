@@ -1,12 +1,19 @@
+Dear Sir/Madam,
 
+Application for the role of Java Developer
 
+I would like to apply for the role of Java Developer which I have seen published  on Stackoverflow. please find enclosed my up to date CV.
 
+As you will see from my CV, I have been working as a software engineer for over 8 years now concentrating specifically on Java/J2EE  and I would like a new challenge and feel that I could do the Senior Java Engineer  role that you have got advertised.
 
+I am a methodical but technical person, I like to problem solve and figure things out and that is why I enjoy writing and developing new software as it requires a great deal of thought and logical like solving a puzzle.
 
+I am a very organised and dedicated person to my work, I like to ensure that I meet my deadlines and I usually am working on a number of different projects at any one time. I believe that my time management skills are good and I am a very honest person.
 
+I have enclosed my CV for your consideration, should you be interested in my skills please do not hesitate to contact me.
 
+Thank you for taking the time to read my application, I look forward to hearing from you.
 
+Yours sincerely
 
-{'text': "@clarissefujs Fait l'amour", 'sentiment': 'neutral'}, {'text': '@kyzerrrrrrr Thanks for your support, Kyzer! 🙌', 'sentiment': 'positive'}, {'text': "@PtitDicky @spinvante Saut d'obstacles. Ou ping pong aussi", 'sentiment': 'negative'}]
-
-
+Rajeev Akotkar
